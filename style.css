@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    width: 250px;
+    margin: 0 auto;
+}
+p{
+    width: 300px;
+    margin: 0 auto;
+}
+.vaikas{
+    width: 200px;
+    height: 200px;
+    background-image: url(speedwagon.jpg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 100px auto;
+}
